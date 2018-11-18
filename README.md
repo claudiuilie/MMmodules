@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # MagicMirror² Module Development Documentation
-
+#git remote add -f repo-b git@github.com:vaibhavmule/repo-b.git
+#git merge repo-b/master --allow-unrelated-histories
 This document describes the way to develop your own MagicMirror² modules.
 
 Table of Contents:
